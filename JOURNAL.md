@@ -22,7 +22,7 @@
 
 **3h**
 
-Following the guide i made my own schematic and took the tips to make it look cleaner overall, also due to the low amount of pins i decided to sacrifice the LEDs pin for an extra button and yes i know i can make a matrix but it wouldn't make sense in this case since i'm making a 3*2 button matrix wich would barerly save any pins specifically only 1
+Following the guide i made my own schematic and took the tips to make it look cleaner overall, also due to the low amount of pins i decided to sacrifice the LEDs pin for an extra button and yes i know i can make a matrix but it wouldn't make sense in this case since i'm making a 3*2 button matrix wich would barerly save any pins specifically only 1 and also simply because i want it to be nice and compact
 
 ![1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/LVRmHEqlXH32t0BkNInDPBCrieQkaLRx/231cd9a997e3cb62bf5dd15162b74941e1b40b5ab4742b05883d7dbdd12defb5.png)
 
