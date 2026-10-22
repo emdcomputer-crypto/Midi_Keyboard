@@ -5,5 +5,4 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 4,1,AliExpress,$3.53,$3.53,https://it.aliexpress.com/item/1005007644083514.html
 5,1,AliExpress,$1.94,$1.94,https://it.aliexpress.com/item/1005009637487801.html
 6,1,JLCPCB,$4.00,$4.00,https://jlcpcb.com
-7,1,AliExpress / JLCPCB,$38.88,$38.88,
 Estimated total shipping,1,,,$0.00,
