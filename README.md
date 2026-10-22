@@ -32,7 +32,7 @@ I used Kai Pereira's MIDI Keypad tutorial as a loose guide, but I customized the
 - `Hardware/Midi.kicad_sch` — KiCad schematic
 - `Hardware/Midi.kicad_pcb` — KiCad PCB layout
 - `Hardware/Midi.kicad_pro` — KiCad project file
-- `ProductionFiles/` — Gerber zip and fabrication files for JLCPCB also includes a .step file 
+- `FabricationFiles/` — Gerber zip and fabrication files for JLCPCB also includes a .step file 
 - `Firmware/` — Firmware
 
 ## Credits
