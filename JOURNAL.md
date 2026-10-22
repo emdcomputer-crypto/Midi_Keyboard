@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 12.9h | 4 |
+| Week 3 | Tier 1 | 13.1h | 4 |
 
 ## Contents
 
@@ -49,7 +49,7 @@ After finishing the schematic i went to the pcb part where i had to make some ca
 
 ### 2026-10-21 – After a while of thinking about how do i arrange the components  i ended up with this cool setup and as always my objective is to make it small but look good at the same time, now all i have to do is
 
-**1.3h**
+**1.5h**
 
 After a while of thinking about how do i arrange the components  i ended up with this cool setup and as always my objective is to make it small but look good at the same time, now all i have to do is route the board because  i want everything to look beautiful, i will take my time routing, fixing etc...
 
