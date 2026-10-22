@@ -1,5 +1,45 @@
-# Midi_Keyboard
-Making a midi keyboard for half life week 3 following the guide
+# 7-Key Custom MIDI Keypad
+
+This is my 7-key MIDI keypad project for Hack Club Half Life Week 3 It features custom capacitive touch pads mx switches, a rotary encoder, slide potentiometers.
+I used Kai Pereira's MIDI Keypad tutorial as a loose guide, but I customized the layout to make my own capacitive touch pads with a mix of rectangular and hexagonal shapes.
+
+## What I Learned & How I Built It
+
+1. **Making the Capacitive Touch Pads:** I designed the 7-key touch pads directly in KiCad's Footprint Editor. I made sure to uncheck `F.Paste` so solder paste won't be applied to the pads, leaving the copper exposed so it detects your finger. I also set a 0.5mm clearance gap between every key so they don't trigger each other.
+2. **Routing the PCB:** I routed all the signal traces by hand, sticking to smooth 45-degree bends instead of sharp 90-degree corners to avoid acid traps or whatever that is.
+3. **Fixing DRC Errors & Ground Pour:** I poured ground zones on both the top and bottom layers (`F.Cu` and `B.Cu`). I had a few "starved thermal" warnings where ground pads weren't getting enough copper spokes, so I ran short bridge traces from those pads to nearby ground areas. After that, DRC passed with 0 unconnected pads
+4. **3D Models:** I set up the `HACKCLUB_3DMODEL_DIR` path variable in KiCad preferences so all the components show up properly in the 3D viewer.
+5. **lack of gpio** due to the lack of gpio pins i had to sacrifice the leds for an extra button wich i wanted.
+
+## Bill of Materials (BOM)
+
+| Part | What it is used for | Quantity | Price | Vendor |
+|---|---|---:|---:|---|
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+
+- **Parts Subtotal:** $
+- **Tax & Shipping:** $
+- **Total Project Cost:** **$**
+
+## Project Files
+
+- `Hardware/Midi.kicad_sch` — KiCad schematic
+- `Hardware/Midi.kicad_pcb` — KiCad PCB layout
+- `Hardware/Midi.kicad_pro` — KiCad project file
+- `Production/` — Gerber zip and fabrication files for JLCPCB
+- `Firmware/` — CircuitPython / KMK MIDI code
+
+## Credits
+
+- Based on Kai Pereira's MIDI Keypad tutorial for Hack Club Half Life Week 3.
+- Built using footprints and symbols from the Hack Club KiCad Library.
+  
 <img width="1099" height="817" alt="7" src="https://github.com/user-attachments/assets/2572e432-ff55-4b24-823d-ad9f05556477" />
 <img width="1420" height="1023" alt="6" src="https://github.com/user-attachments/assets/7451a9fd-ed6a-49d7-9470-c99aa466e1ca" />
 <img width="1416" height="1020" alt="5" src="https://github.com/user-attachments/assets/3288d387-b3ae-4ca6-91b1-71be40208b7c" />
