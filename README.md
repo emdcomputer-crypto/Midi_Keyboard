@@ -13,20 +13,23 @@ I used Kai Pereira's MIDI Keypad tutorial as a loose guide, but I customized the
 
 ## Bill of Materials (BOM)
 
-| Part | What it is used for | Quantity | Price | Vendor |
-|---|---|---:|---:|---|
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| Item | Category | Part Description | Qty | Price (USD) | Supplier | Link |
+| :---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| **1** | Microcontroller | Waveshare ESP32-S3-Zero Dev Board | 1 | $9.88 | AliExpress | [Link](https://it.aliexpress.com/item/1005012733231291.html) |
+| **2** | Keycaps | Relegendable Transparent Keycaps (10 Pcs) | 1 pack | $4.66 | AliExpress | [Link](https://it.aliexpress.com/item/1005005825113345.html) |
+| **3** | Switches | Tactile Mechanical Switches (3-Pin MX) | 1 pack | $4.70 | AliExpress | [Link](https://it.aliexpress.com/item/1005013167413073.html) |
+| **4** | Encoders | EC11 Rotary Encoders w/ Push Button (5 Pcs) | 1 pack | $3.53 | AliExpress | [Link](https://it.aliexpress.com/item/1005007644083514.html) |
+| **5** | Potentiometers | 30mm Single Slide Potentiometer B5K (3 Pcs) | 1 pack | $1.94 | AliExpress | [Link](https://it.aliexpress.com/item/1005009637487801.html) |
+| **6** | PCB | Custom PCB Fabrication | 5 pcs | $4.00 | JLCPCB | [Link](https://jlcpcb.com) |
 
-- **Parts Subtotal:** $
-- **Tax & Shipping:** $
-- **Total Project Cost:** **$**
+### Cost 
 
+* **Components Subtotal (AliExpress):** $24.71
+* **AliExpress Shipping & Import Fees:** $25.40
+* **JLCPCB (5 PCBs + Shipping):** $17.48
+* **--------------------------------------------------**
+* **Total Project Cost:** **$67.59 USD**
+  
 ## Project Files
 
 - `Hardware/Midi.kicad_sch` — KiCad schematic
