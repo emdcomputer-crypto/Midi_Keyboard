@@ -1,8 +1,8 @@
-Reference,Value,Qty,Footprint,Category,Description,Unit Price (USD),Total Price (USD),Supplier,URL
-U1,Microcontroller Board,1,Dev_Board_Small,Microcontroller,Compact Dual-Core Microcontroller Development Board,9.88,9.88,AliExpress,https://it.aliexpress.com
-KC1,Keycap,1,MX_Keycap_1U,Keycaps,Transparent Relegendable Keycap,4.66,4.66,AliExpress,https://it.aliexpress.com
-SW1,Mechanical Switch,1,SW_Cherry_MX_1.00u_PCB,Switches,Tactile Mechanical Keyboard Switch,4.70,4.70,AliExpress,https://it.aliexpress.com
-ROT1,Rotary Encoder,1,RotaryEncoder_Alps_EC11E,Encoders,Rotary Encoder with Push Switch,3.53,3.53,AliExpress,https://it.aliexpress.com
-RV1,Slide Potentiometer,1,Potentiometer_Bourns_PTA1543,Potentiometers,Single Slide Potentiometer,1.94,1.94,AliExpress,https://it.aliexpress.com
-PCB1,Custom PCB,1,PCB_Custom,PCB,Custom Printed Circuit Board,4.00,4.00,JLCPCB,https://jlcpcb.com
-FEE1,Shipping & Import,1,N/A,Shipping & Fees,Shipping and Customs Import Fees,38.88,38.88,Various,N/A
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Microcontroller Board,1,AliExpress,$9.88,$9.88,https://it.aliexpress.com
+Keycap,1,AliExpress,$4.66,$4.66,https://it.aliexpress.com
+Mechanical Switch,1,AliExpress,$4.70,$4.70,https://it.aliexpress.com
+Rotary Encoder,1,AliExpress,$3.53,$3.53,https://it.aliexpress.com
+Slide Potentiometer,1,AliExpress,$1.94,$1.94,https://it.aliexpress.com
+Custom PCB,1,JLCPCB,$4.00,$4.00,https://jlcpcb.com
+Estimated total shipping,1,,,$38.88,
