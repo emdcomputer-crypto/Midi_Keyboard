@@ -1,8 +1,8 @@
-Reference,Value,Qty,Footprint,Category,Description,Unit Price (USD),Total Price (USD),Supplier,URL
-U1,ESP32-S3-Zero,1,Waveshare_ESP32-S3-Zero,Microcontroller,"Waveshare ESP32-S3-Zero (ESP32-S3FH4R2 Dual-Core Dev Board)",9.88,9.88,AliExpress,https://it.aliexpress.com/item/1005012733231291.html
-KC1-KC10,MX Keycaps,10,MX_Keycap_1U,Keycaps,"Relegendable Transparent Keycaps (MX Switch Compatible 10 Pcs)",4.66,4.66,AliExpress,https://it.aliexpress.com/item/1005005825113345.html
-SW1-SW10,MX Switch,10,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Switches,"Tactile Mechanical Keyboard Switches (3-Pin MX Style)",4.70,4.70,AliExpress,https://it.aliexpress.com/item/1005013167413073.html
-"SW11-SW15, ROT1-ROT5",EC11,5,RotaryEncoder_Switch:RotaryEncoder_Alps_EC11E-Switch_Vertical,Encoders,"EC11 Rotary Encoder 360° with Push Switch (5 Pcs Set)",3.53,3.53,AliExpress,https://it.aliexpress.com/item/1005007644083514.html
-RV1-RV3,B5K,3,Potentiometer_THT:Potentiometer_Bourns_PTA1543_Single_Slide,Potentiometers,"30mm Single Slide Potentiometer B5K 15mm Shaft (3 Pcs Set)",1.94,1.94,AliExpress,https://it.aliexpress.com/item/1005009637487801.html
-PCB1,Custom PCB,5,PCB_Custom,PCB,"Custom PCB Fabrication (5 Pcs)",4.00,4.00,JLCPCB,https://jlcpcb.com
-FEE1,Shipping & Import,1,N/A,Shipping & Fees,"AliExpress Shipping ($5.22) + Import Fees ($20.18) + JLCPCB Shipping ($13.48)",38.88,38.88,AliExpress / JLCPCB,N/A
+Item,Qty,Supplier,Cost/item,Total Cost,link
+ESP32-S3-Zero,1,AliExpress,$9.88,$9.88,https://it.aliexpress.com/item/1005012733231291.html
+MX Keycaps,10,AliExpress,$4.66,$46.60,https://it.aliexpress.com/item/1005005825113345.html
+MX Switch,10,AliExpress,$4.70,$47.00,https://it.aliexpress.com/item/1005013167413073.html
+EC11,5,AliExpress,$3.53,$17.65,https://it.aliexpress.com/item/1005007644083514.html
+B5K,3,AliExpress,$1.94,$5.82,https://it.aliexpress.com/item/1005009637487801.html
+Custom PCB,5,JLCPCB,$4.00,$20.00,https://jlcpcb.com
+Estimated total shipping,1,,,$38.88,
