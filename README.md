@@ -43,12 +43,7 @@ I used Kai Pereira's MIDI Keypad tutorial as a loose guide, but I customized the
 - Based on Kai Pereira's MIDI Keypad tutorial for Hack Club Half Life Week 3.
 - Built using footprints and symbols from the Hack Club KiCad Library.
   
-<img width="1099" height="817" alt="7" src="https://github.com/user-attachments/assets/2572e432-ff55-4b24-823d-ad9f05556477" />
-<img width="1420" height="1023" alt="6" src="https://github.com/user-attachments/assets/7451a9fd-ed6a-49d7-9470-c99aa466e1ca" />
-<img width="1416" height="1020" alt="5" src="https://github.com/user-attachments/assets/3288d387-b3ae-4ca6-91b1-71be40208b7c" />
-<img width="1416" height="1021" alt="4" src="https://github.com/user-attachments/assets/3b1b4eb4-ab05-4133-b0ec-05f10fbb134b" />
-<img width="504" height="723" alt="3" src="https://github.com/user-attachments/assets/bb9b4bc7-9392-42fd-bba3-93adcbce818e" />
-<img width="1750" height="701" alt="2" src="https://github.com/user-attachments/assets/ac51b630-7958-4135-b658-78d1238d52bf" />
+
 <img width="1541" height="880" alt="1" src="https://github.com/user-attachments/assets/9e944d81-f026-47a2-9c28-777ad37d1a4d" />
 <img width="1536" height="919" alt="15" src="https://github.com/user-attachments/assets/d4b37733-5818-47fd-9593-30b6514722d9" />
 <img width="1719" height="922" alt="14" src="https://github.com/user-attachments/assets/6576dcbd-871d-4ba2-b077-fc469b5ee4db" />
