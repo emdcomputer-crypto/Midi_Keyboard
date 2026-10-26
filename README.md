@@ -49,7 +49,3 @@ I used Kai Pereira's MIDI Keypad tutorial as a loose guide, but I customized the
 <img width="1719" height="922" alt="14" src="https://github.com/user-attachments/assets/6576dcbd-871d-4ba2-b077-fc469b5ee4db" />
 <img width="1337" height="856" alt="13" src="https://github.com/user-attachments/assets/b7adac21-1869-4241-8585-fa758e26d69d" />
 <img width="1334" height="866" alt="12" src="https://github.com/user-attachments/assets/078e0a42-de93-4fb2-a72a-db0c35965869" />
-<img width="1918" height="1013" alt="11" src="https://github.com/user-attachments/assets/3fb1db35-d8e6-40e0-936e-47bfd6c468f2" />
-<img width="1066" height="706" alt="10" src="https://github.com/user-attachments/assets/08add1d5-c2e7-4db1-ab93-bc8cd4fc3336" />
-<img width="1382" height="739" alt="9" src="https://github.com/user-attachments/assets/947ab160-0fdf-4522-86ac-c98c910745cb" />
-<img width="1082" height="673" alt="8" src="https://github.com/user-attachments/assets/10583d9a-908f-4e15-a07f-cf345f64ae88" />
