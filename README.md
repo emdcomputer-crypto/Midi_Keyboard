@@ -30,7 +30,7 @@ I used Kai Pereira's MIDI Keypad tutorial as a loose guide, but I customized the
 * **AliExpress Shipping & Import Fees:** $25.40
 * **JLCPCB (5 PCBs + Shipping):** $40.98
 * **--------------------------------------------------**
-* **Total Project Cost:** **$91.09 USD**
+* **Aprox Total Project Cost:** **$95.09 USD**
   
 ## Project Files
 
