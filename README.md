@@ -22,13 +22,15 @@ I used Kai Pereira's MIDI Keypad tutorial as a loose guide, but I customized the
 | **5** | Potentiometers | 30mm Single Slide Potentiometer B5K (3 Pcs) | 1 pack | $1.94 | AliExpress | [Link](https://it.aliexpress.com/item/1005009637487801.html) |
 | **6** | PCB | Custom PCB Fabrication | 5 pcs | $4.00 | JLCPCB | [Link](https://jlcpcb.com) |
 
+(I chose the cheapest parts availble with free shipping from aliexpress but unfortunatley the price is this high to the tariffs we have in europe this also applies to jlc pcb where choosing the cheapest shipping may lead to it being more expensive becasue it doesnt include the tariffs and taxes so when in customs you can get asked to pay all of it, thats why i chose the cheapest shipping that also included all taxes paid )
+
 ### Cost 
 
 * **Components Subtotal (AliExpress):** $24.71
 * **AliExpress Shipping & Import Fees:** $25.40
-* **JLCPCB (5 PCBs + Shipping):** $17.48
+* **JLCPCB (5 PCBs + Shipping):** $40.98
 * **--------------------------------------------------**
-* **Total Project Cost:** **$67.59 USD**
+* **Total Project Cost:** **$91.09 USD**
   
 ## Project Files
 
